@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Intro 
 
-So on the heels of the K Nearest Neighbors lecture perhaps you might be interested in a teaser for something involving a more hands on approach. 
+So on the heels of this week's lecture perhaps you might be interested in a teaser for something involving a more hands on approach. 
 
 This notebook will help you to start becoming familiar with some of the activities common to Machine Learning. It's helpful for you to run the code on your own.
 
